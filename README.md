@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dure-thaka-megh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dure Thaka Megh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-thaka-megh/) |
+| **Get License** | [Request Licensing for Dure Thaka Megh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-thaka-megh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1aaf83b5943f9b44b7e2988193178b5f857fca8a1d4879ca9a69459dc20f60c1` |
 | **Timestamp** | May 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

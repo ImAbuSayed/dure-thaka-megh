@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dure Thaka Megh
+
+This log tracks the cryptographic history and versioning for the song **Dure Thaka Megh** (dure-thaka-megh).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T11:22:44.516839 | `v1` | `1aaf83b5943f9b44b7e2988193178b5f857fca8a1d4879ca9a69459dc20f60c1` | `034b1b74532ee3df474c2f3a4a4040f575630d18573c7ca6b6968f3ef2da8624` | `2026-05-11_dure-thaka-megh-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
