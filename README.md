@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dure-thaka-megh/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dure Thaka Megh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-thaka-megh/) |
+| **Get License** | [Obtain a Music License for Dure Thaka Megh](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-thaka-megh/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই অন্ধকারে জাগে মনের নেশা
+> তোমার উষ্ণ নিঃশ্বাসে আজ মাতাল করা আশা
+> হারিয়ে যাই তোমার মাঝে ভুলে সব সীমানা
+> অসীম এই প্রেমের টানে উড়ুক নতুন ডানা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
